@@ -1,0 +1,4 @@
+com.example.moodtracker.test.app-androidTest-0 C:\AndroidProjects\MoodTracker\app\build\generated\res\resValues\androidTest\debug
+com.example.moodtracker.test.app-mergeDebugAndroidTestResources-1 C:\AndroidProjects\MoodTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.moodtracker.test.app-mergeDebugAndroidTestResources-2 C:\AndroidProjects\MoodTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.moodtracker.test.app-debugAndroidTest-3 C:\AndroidProjects\MoodTracker\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

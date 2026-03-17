@@ -1,12 +1,12 @@
 # 📱 Mood Tracker — Android App
 
-A simple, clean Android app for tracking your daily mood, energy level, sleep, and journal notes. Built with Kotlin following modern Android best practices.
+A simple, clean Android app for tracking your daily mood, energy level, sleep, and journal notes. Built with Kotlin.
 
 ---
 
 ## ✨ Features
 
-- 😄 **Mood Rating** — rate your mood 1–5 with stars
+- 😄 **Mood Rating** — Select your mood based on 5 emoji options
 - ⚡ **Energy Level** — log your energy on a 1–5 scale
 - 💤 **Sleep Hours** — enter how many hours you slept
 - 📝 **Journal Note** — optional free-text note
@@ -97,13 +97,7 @@ UI (Activity) ←→ ViewModel ←→ Repository ←→ Room Database
 
 ---
 
-## 🔧 Possible Future Improvements
 
-- 📊 Charts/graphs showing mood trends over time
-- 🔔 Daily reminder notifications
-- 🏷️ Activity tags (exercise, work, socialising)
-- 🌙 Dark mode support
-- 📤 Export data to CSV
 
 ---
 
